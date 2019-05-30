@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=car
+comment0.target=void\ addSlot(Car)
+comment0.text=\r\n\ Method\ to\ add\ a\ new\ slot\ to\ the\ arraylist.\r\n
+comment1.params=regNum
+comment1.target=java.lang.String\ searchReg(java.lang.String)
+comment1.text=\r\n\ Method\ to\ search\ a\ car\ when\ the\ user\ enters\ the\ registration\ number.\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ displaySlots()
+comment2.text=\r\n\ Method\ to\ display\ all\ the\ slots\ of\ the\ array\ list.\r\n
+comment3.params=slotID
+comment3.target=boolean\ deleteSlot(java.lang.String)
+comment3.text=\r\n\ Method\ to\ delete\ a\ slot\ by\ taking\ slot\ ID\ as\ input\r\n
+comment4.params=slotID\ carReg\ ownerName
+comment4.target=boolean\ parkCar(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Method\ to\ park\ a\ car\ in\ a\ specified\ slot\ by\ taking\ the\ slotID,\ Registration\ Number\ and\ Owner\ Name.\r\n
+comment5.params=carReg
+comment5.target=boolean\ removeCar(java.lang.String)
+comment5.text=\r\n\ Method\ to\ remove\ a\ car\ from\ a\ slot\ based\ on\ the\ registration\ number.\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ getSlotArrayList()
+comment6.text=\r\n\ Accessor\ for\ arraylist.\r\n
+numComments=7
