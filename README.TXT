@@ -5,7 +5,7 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Parking Spot System
-PURPOSE OF PROJECT: COS70006 - Object Oriented Programming - Project 1
+PURPOSE OF PROJECT: Car Park System in Java
 VERSION or DATE: 14/04/2019
 HOW TO START THIS PROJECT: 
 1. Open the package file in the project folder. You'll see four classes.
